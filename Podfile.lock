@@ -1,0 +1,16 @@
+PODS:
+  - "UIView+Shake (1.4.0)"
+
+DEPENDENCIES:
+  - "UIView+Shake (~> 1.4)"
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - "UIView+Shake"
+
+SPEC CHECKSUMS:
+  "UIView+Shake": 055ad67721de1f74d29c0a1d464697e505dfc62f
+
+PODFILE CHECKSUM: 283b1d7526a6d44d0e09f7116fab1930c73ff28f
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,6 @@
+framework module Pods_Dices {
+  umbrella header "Pods-Dices-umbrella.h"
+
+  export *
+  module * { export * }
+}
